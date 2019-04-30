@@ -1,7 +1,7 @@
 {
-  "name": "react-setting",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-webpack-settings-js",
+  "version": "1.0.1",
+  "description": "React initial settings with Webpack. Since React16, Webpack4, and Babel8 are already set up in this source, you can create or customize the React app right away.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
@@ -9,11 +9,23 @@
     "dev": "webpack --mode development",
     "prod": "webpack --mode production"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react16",
+    "webpack",
+    "webpack4"
+  ],
+  "author": {
+    "name": "Isu Ahn",
+    "email": "clat.dev@gmail.com",
+    "url": "https://github.com/nestymon"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "7.4.4",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/polyfill": "^7.4.4",
     "@babel/preset-env": "7.4.0",
     "@babel/preset-react": "7.0.0",
     "babel-loader": "^8.0.5",
