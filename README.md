@@ -8,7 +8,7 @@
 ### How to Run in the development environment  
 1. Download the source code  
 ```
-git clone git@github.com:nestymon/react16-webpack4-settings-js.git
+git clone git@github.com:nestymon/react16-webpack4-js.git
 ```  
 2. Download the dependent packages and run the webpack  
 ```
