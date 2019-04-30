@@ -2,7 +2,7 @@
 
 
 ## Summary  
-- This is the initial settings for the React app  
+React initial settings with Webpack. Since React16, Webpack4, and Babel8 are already set up in this source, you can create or customize the React app right away.  
 
 ## How to Run in the development environment  
 1. Download the source code  
